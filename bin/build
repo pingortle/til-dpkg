@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+dpkg --build build/my-awesome-package

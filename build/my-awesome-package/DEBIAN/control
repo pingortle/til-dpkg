@@ -1,0 +1,7 @@
+Package: my-awesome-package
+Architecture: all
+Maintainer: @pingortle
+Priority: optional
+Version: 0.0.0
+Description: Trust me... It's Awesome!
+Depends: vim
