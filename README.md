@@ -11,7 +11,7 @@ my-awesome-package
 
 #### Setup
 
-- **macOS**: Run `brew bundle`
+- **macOS**: Run `brew bundle` *Hint: [install homebrew first](https://brew.sh)*
 - Run `bin/build`
 
 #### After
